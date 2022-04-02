@@ -1,1 +1,1 @@
-# pygame_runner
+# First pygame tutorial
